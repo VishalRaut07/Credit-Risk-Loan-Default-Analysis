@@ -1,5 +1,10 @@
 # Credit Risk & Loan Default Analysis
 
+## Dataset Note
+The cleaned dataset file is not uploaded to GitHub due to size limitations.
+The notebook contains all data cleaning and processing steps to reproduce the dataset.
+
+
 ## Project Overview
 This project focuses on analyzing customer credit risk and loan default behavior using real-world financial data.
 
