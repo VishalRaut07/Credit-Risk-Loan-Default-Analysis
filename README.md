@@ -38,4 +38,5 @@ This project focuses on analyzing customer credit risk and loan default behavior
 - Calculated overall default rate
 - Performed risk segmentation using CASE WHEN
 - Analyzed default trends by income, age, gender, employment, and credit score
+- 
 
